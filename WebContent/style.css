@@ -1,0 +1,17 @@
+.center {
+  text-align: center;
+}
+
+.alignright {
+   text-align: right     !important;
+}
+
+.center2 {
+  text-align: center     !important;
+}
+
+.divIDtwo {
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
